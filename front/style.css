@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+}
+
+.title {
+  text-align: center;
+}
+
+.main form,
+.loading {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.loading {
+  height: auto;
+  text-align: center;
+}
+
+.mews {
+  width: 80%;
+  margin: 0 auto;
+}
